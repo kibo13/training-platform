@@ -7,5 +7,6 @@
     "/css/platform.css": "/css/platform.css?id=acc77ed1ec94d10bdd31fb831f3feca0",
     "/js/vendors/jquery.min.js": "/js/vendors/jquery.min.js?id=00727d1d5d9c90f7de826f1a4a9cc632",
     "/js/vendors/bootstrap.min.js": "/js/vendors/bootstrap.min.js?id=2a753de0369d13becc9649fc48f55535",
-    "/js/vendors/jquery.dataTables.min.js": "/js/vendors/jquery.dataTables.min.js?id=c337c1c7e1df2a5db8f65f389d78d9d8"
+    "/js/vendors/jquery.dataTables.min.js": "/js/vendors/jquery.dataTables.min.js?id=c337c1c7e1df2a5db8f65f389d78d9d8",
+    "/css/vendors/bootstrap.min.css": "/css/vendors/bootstrap.min.css?id=a4b3f509e79c54a512b890d73235ef04"
 }
