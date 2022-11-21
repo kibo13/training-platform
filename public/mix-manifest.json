@@ -1,0 +1,11 @@
+{
+    "/js/platform.js": "/js/platform.js?id=8687fbdf3dcca1d2c725766933cc104e",
+    "/js/auth.js": "/js/auth.js?id=b065758220bd3a27d59de6fc05510724",
+    "/js/admin.js": "/js/admin.js?id=eb507da141185d5e2b03f2c0cc07cbd1",
+    "/css/admin.css": "/css/admin.css?id=ab3799ee4077cc3397628c460bf385e1",
+    "/css/auth.css": "/css/auth.css?id=dc807a163597b977a1a92559a6613057",
+    "/css/platform.css": "/css/platform.css?id=acc77ed1ec94d10bdd31fb831f3feca0",
+    "/js/vendors/jquery.min.js": "/js/vendors/jquery.min.js?id=00727d1d5d9c90f7de826f1a4a9cc632",
+    "/js/vendors/bootstrap.min.js": "/js/vendors/bootstrap.min.js?id=2a753de0369d13becc9649fc48f55535",
+    "/js/vendors/jquery.dataTables.min.js": "/js/vendors/jquery.dataTables.min.js?id=c337c1c7e1df2a5db8f65f389d78d9d8"
+}
