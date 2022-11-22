@@ -12,7 +12,7 @@
 @endsection
 
 @section('content-body')
-    <div class="auth">
+    <div id="auth" class="auth">
         @yield('content-auth')
     </div>
 @endsection

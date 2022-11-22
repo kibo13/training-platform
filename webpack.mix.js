@@ -7,6 +7,7 @@ mix .js('resources/js/platform/index.js', 'public/js/platform.js')
 
 // auth
 mix .js('resources/js/auth/index.js', 'public/js/auth.js')
+    .vue()
     .sass('resources/sass/auth/index.sass', 'public/css/auth.css')
     .version()
 
