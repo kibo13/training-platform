@@ -20,12 +20,14 @@
         "postcss": "^8.1.14",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.54.4",
-        "sass-loader": "^13.0.2"
+        "sass-loader": "^13.0.2",
+        "vue-loader": "^17.0.1"
     },
     "dependencies": {
         "datatables.net": "^1.12.1",
         "datatables.net-dt": "^1.12.1",
-        "font-awesome": "^4.7.0"
+        "font-awesome": "^4.7.0",
+        "vue": "^3.2.45"
     },
     "browserslist": [
         "last 2 versions",
