@@ -22,6 +22,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'role_id',
     ];
 
     /**
@@ -51,5 +52,10 @@ class User extends Authenticatable
     public function hasRole($slug): bool
     {
         return $this->role()->where('slug', $slug)->exists();
+    }
+
+    public function isAdmin(): bool
+    {
+        return $this->role->slug == 'admin';
     }
 }
